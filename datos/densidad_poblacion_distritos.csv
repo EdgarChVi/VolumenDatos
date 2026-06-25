@@ -1,0 +1,492 @@
+﻿codigo_pcd,nom_es,label_value
+10101,Carmen,1831.21
+10102,Merced,7091.74
+10111,San Sebastián,10702.44
+10201,Escazú,2870.54
+10202,San Antonio,2792.41
+10203,San Rafael,2281.75
+10301,Desamparados,10631.8
+10302,San Miguel,1819.98
+10303,San Juan de Dios,8658.18
+10304,San Rafael Arriba,5655.96
+10305,San Antonio,5481.84
+10306,Frailes,226.8
+10307,Patarrá,1292.13
+10308,San Cristobal,185.22
+10309,Rosario,251.88
+10310,Damas,5926.66
+10311,San Rafael Abajo,12625.79
+10103,Hospital,7344.08
+10312,Gravilias,5832.48
+10313,Los Guido,10277.18
+10401,Santiago,358.32
+10402,Mercedes Sur,40.97
+10403,Barbacoas,252.05
+10404,Grifo Alto,59.84
+10405,San Rafael,134.27
+10406,Candelarita,67.97
+10407,Desamparaditos,119.48
+10408,San Antonio,334.73
+10409,Chires,18.06
+10501,San Marcos,237.52
+10502,San Lorenzo,32.16
+10503,San Carlos,35.02
+10601,Aserrí,2180.34
+10602,Tarbaca,128.76
+10603,Vuelta de Jorco,348.56
+10104,Catedral,6683.34
+10105,Zapote,7643.94
+10106,San Francisco de Dos Ríos,8906.83
+10107,Uruca,5331.2
+10108,Mata Redonda,2788.29
+10109,Pavas,9796.4
+10110,Hatillo,13976.91
+10604,San Gabriel,583.05
+10605,Legua,25.4
+10606,Monterrey,84.73
+10607,Salitrillos,1107.17
+10701,Colón,588.28
+10702,Guayabo,518.61
+10703,Tabarcia,123.49
+10704,Piedras Negras,36.74
+10705,Picagres,35.26
+10706,Jaris,292.73
+10707,Quitirrisí,249.93
+10801,Guadalupe,8729.63
+10802,San Francisco,4232.49
+10803,Calle Blancos,9999.66
+10804,Mata de Plátano,2746.66
+10805,Ipís,12920.23
+10806,Rancho Redondo,321.71
+10807,Purral,12242.62
+10901,Santa Ana,2259.42
+10902,Salitral,995.15
+10903,Pozos,1575.37
+10904,Uruca,1432.42
+10905,Piedades,2209.55
+10906,Brasil,1050.04
+11003,San Antonio,1323.85
+11004,Concepción,9786.94
+11005,San Felipe,8262.85
+11101,San Isidro,3383.74
+11102,San Rafael,868.02
+11103,Dulce Nombre de Jesús,810.6
+11104,Patalillo,13052.58
+11105,Cascajal,380.76
+11201,San Ignacio,403.59
+11202,Guaitil,61.7
+11203,Palmichal,243.08
+11204,Cangrejal,42.75
+11205,Sabanillas,14.98
+11301,San Juan,6943.71
+11304,León XIII,29359.8
+11305,Colima,9143.79
+11401,San Vicente,5552.78
+11402,San Jerónimo,526.22
+11403,La Trinidad,4909.63
+11501,San Pedro,5672.6
+11502,Sabanilla,7876.4
+11503,Mercedes,4218.98
+11504,San Rafael,1828.82
+11601,San Pablo,60.04
+11602,San Pedro,23.48
+11603,San Juan de Mata,33.7
+11604,San Luis,19.76
+11605,Carara,12.75
+11701,Santa María,225.25
+11702,Jardín,47.43
+11703,Copey,221.5
+11001,Alajuelita,9967.32
+11002,San Josecito,5620.0
+11302,Cinco Esquinas,13479.58
+11801,Curridabat,4964.91
+11912,La  Amistad,25.85
+12001,San Pablo,217.47
+12002,San Andrés,108.72
+12003,Llano Bonito,64.32
+12004,San Isidro,96.02
+12005,Santa Cruz,96.39
+12006,San Antonio,122.38
+20101,Alajuela,4349.02
+11303,Anselmo Llorente,9474.57
+11802,Granadilla,5524.69
+11803,Sánchez,1541.14
+11804,Tirrases,13938.3
+11901,San Isidro de El General,241.96
+11902,El General,96.53
+11903,Daniel Flores,529.25
+11904,Rivas,33.9
+11905,San Pedro,50.53
+11906,Platanares,74.54
+11907,Pejibaye,24.82
+11908,Cajón,87.52
+11909,Barú,15.02
+11910,Río Nuevo,27.58
+11911,Páramo,65.25
+20102,San José,3696.21
+20103,Carrizal,582.6
+20104,San Antonio,3726.62
+20105,Guácima,990.92
+20106,San Isidro,675.82
+20107,Sabanilla,328.16
+20108,San Rafael,1831.91
+20109,Río Segundo,2576.79
+20110,Desamparados,2679.49
+20111,Turrúcares,258.18
+20112,Tambor,1088.26
+20113,Garita,294.51
+20114,Sarapiquí,54.56
+20201,San Ramón,6874.0
+20202,Santiago,97.94
+20203,San Juan,2686.72
+20204,Piedades Norte,207.44
+20205,Piedades Sur,41.32
+20206,San Rafael,368.7
+20207,San Isidro,708.17
+20208,Ángeles,30.43
+20209,Alfaro,487.47
+20210,Volio,137.62
+20211,Concepción,285.45
+20212,Zapotal,9.86
+20213,Peņas Blancas,136.16
+20214,San Lorenzo,15.04
+20301,Grecia,2051.71
+20302,San Isidro,621.74
+20303,San José,859.9
+20304,San Roque,832.06
+20305,Tacares,420.51
+20307,Puente de Piedra,599.3
+20308,Bolivar,445.32
+20401,San Mateo,47.21
+20402,Desmonte,63.15
+20403,Jesús María,87.94
+20404,Labrador,75.16
+20501,Atenas,799.87
+20502,Jesús,265.75
+20503,Mercedes,512.33
+20504,San Isidro,256.49
+20505,Concepción,204.34
+20506,San José,283.91
+20507,Santa Eulalia,235.12
+20508,Escobal,58.53
+20601,Naranjo,1129.31
+20602,San Miguel,422.92
+20603,San José,180.31
+20604,Cirrí Sur,220.86
+20605,San Jerónimo,505.81
+20606,San Juan,510.18
+20607,El Rosario,410.11
+20608,Palmitos,497.97
+21301,Upala,122.04
+21302,Aguas Claras,17.74
+21303,San José O Pizote,33.55
+21304,Bijagua,39.43
+21305,Delicias,80.41
+21306,Dos Ríos,21.51
+21307,Yolillal,37.68
+21308,Canalete,57.55
+21401,Los Chiles,57.13
+21402,Caņo Negro,10.48
+21403,El Amparo,28.15
+21404,San Jorge,15.53
+21501,San Rafael,36.28
+20701,Palmares,3094.95
+20702,Zaragoza,1216.25
+20703,Buenos Aires,1336.0
+20704,Santiago,443.35
+20705,Candelaria,576.38
+20706,Esquipulas,1618.88
+20707,La Granja,1154.36
+20801,San Pedro,591.45
+20802,San Juan,548.17
+20803,San Rafael,489.81
+20804,Carrillos,1169.16
+20805,Sabana Redonda,185.96
+20901,Orotina,492.59
+20902,El Mastate,253.84
+20903,Hacienda Vieja,83.02
+20904,Coyolar,225.4
+20905,La Ceiba,47.24
+21001,Quesada,352.63
+21002,Florencia,95.15
+21003,Buenavista,17.35
+21004,Aguas Zarcas,162.39
+21005,Venecia,151.63
+21006,Pital,120.34
+21007,La Fortuna,126.16
+21008,La Tigra,158.1
+21009,La Palmera,109.67
+21010,Venado,12.78
+21011,Cutris,25.22
+21012,Monterrey,20.2
+21013,Pocosol,32.74
+21101,Zarcero,404.37
+21102,Laguna,90.05
+21103,Tapesco,256.6
+21104,Guadalupe,66.28
+21105,Palmira,108.01
+21106,Zapote,22.18
+21107,Brisas,178.05
+21201,Sarchí Norte,590.59
+21202,Sarchí Sur,1075.32
+21203,Toro Amarillo,20.06
+21204,San Pedro,530.71
+21205,Rodríguez,408.16
+21502,Buenavista,15.28
+21503,Cote,11.9
+21504,Katira,62.72
+21601,Río Cuarto,72.32
+21602,Santa Rita,135.34
+21603,Santa Isabel,51.8
+30101,Oriental,5658.46
+40102,Mercedes,7393.58
+40103,San Francisco,9367.99
+40104,Ulloa,3201.59
+40105,Varablanca,58.91
+40308,Pará,1489.05
+40401,Santa Bárbara,4832.45
+40402,San Pedro,2842.85
+40403,San Juan,2222.63
+40404,Jesús,1106.6
+40405,Santo Domingo,225.77
+40406,Purabá,950.85
+60116,Arancibia,22.09
+30102,Occidental,5111.01
+30103,Carmen,4416.29
+30104,San Nicolás,1261.34
+30105,Aguacaliente o San Francisco,944.53
+30106,Guadalupe o Arenilla,1501.68
+30107,Corralillo,361.47
+30108,Tierra Blanca,570.96
+30109,Dulce Nombre,489.56
+30110,Llano Grande,210.72
+30111,Quebradilla,338.01
+30201,Paraíso,987.29
+30202,Santiago,247.48
+30203,Orosi,28.45
+30204,Cachí,139.69
+30205,Llanos de Santa Lucía,2939.83
+30206,Birrisito,263.19
+30301,Tres Ríos,3836.78
+30302,San Diego,6939.06
+30303,San Juan,3990.95
+30304,San Rafael,2143.02
+30305,Concepción,5135.29
+30306,Dulce Nombre,1900.12
+30307,San Ramón,1331.03
+30308,Río Azul,9816.86
+30401,Juan Viņas,181.44
+30402,Tucurrique,163.38
+30403,Pejibaye,29.87
+30404,La Victoria,104.95
+30501,Turrialba,437.77
+30502,La Suiza,93.1
+30503,Peralta,62.67
+30504,Santa Cruz,61.75
+30505,Santa Teresita,95.98
+30506,Pavones,104.05
+30507,Tuis,71.81
+30508,Tayutic,34.55
+30509,Santa Rosa,297.76
+30510,Tres Equis,51.27
+30511,La Isabel,296.67
+30512,Chirripó,9.57
+30601,Pacayas,219.16
+30602,Cervantes,448.35
+30603,Capellades,99.33
+30701,San Rafael,2684.21
+30702,Cot,765.08
+30703,Potrero Cerrado,172.17
+30704,Cipreses,448.45
+30705,Santa Rosa,191.37
+30801,El Tejar,4197.5
+30802,San Isidro,318.56
+30803,Tobosi,389.12
+30804,Patio de Agua,41.77
+40101,Heredia,6208.25
+40201,Barva,5711.18
+40202,San Pedro,3046.61
+40203,San Pablo,1524.54
+40303,San Miguel,1371.72
+40304,Paracito,2297.17
+40305,Santo Tomás,2280.66
+40306,Santa Rosa,2202.88
+40307,Tures,1166.92
+40204,San Roque,4409.89
+40205,Santa Lucía,3047.65
+40206,San José de la Montaņa,285.48
+40207,Puente Salas,1046.07
+40301,Santo Domingo,6095.48
+40302,San Vicente,2838.88
+40501,San Rafael,7713.11
+50104,Nacascolo,11.56
+50105,Curubandé,45.39
+50201,Nicoya,89.27
+50202,Mansión,27.33
+50203,San Antonio,24.01
+50204,Quebrada Honda,25.8
+50205,Sámara,48.0
+50206,Nosara,65.03
+50207,Belén de Nosarita,25.72
+50301,Santa Cruz,119.75
+50302,Bolsón,76.18
+50303,Veintisiete de Abril,32.98
+50304,Tempate,49.26
+50305,Cartagena,74.47
+50306,Cuajiniquil,13.74
+50307,Diriá,77.12
+50308,Cabo Velas,71.87
+40502,San Josecito,10818.02
+40503,Santiago,6830.33
+40504,Ángeles,762.79
+40505,Concepción,442.81
+40601,San Isidro,2282.59
+40602,San José,857.42
+40603,Concepción,512.31
+40604,San Francisco,1171.68
+40701,San Antonio,3107.18
+50309,Tamarindo,70.29
+50401,Bagaces,26.55
+50402,La Fortuna,24.07
+50403,Mogote,22.73
+50404,Río Naranjo,50.27
+50501,Filadelfia,77.99
+50502,Palmira,240.47
+50503,Sardinal,84.29
+50504,Belén,71.05
+50601,Caņas,135.66
+50602,Palmira,7.63
+50603,San Miguel,16.87
+50604,Bebedero,43.29
+50605,Porozal,7.87
+50701,Las Juntas,44.86
+50702,Sierra,41.81
+50703,San Juan,17.7
+50704,Colorado,25.77
+50801,Tilarán,64.08
+50802,Quebrada Grande,90.16
+50803,Tronadora,23.74
+50804,Santa Rosa,31.11
+50805,Líbano,13.38
+50806,Tierras Morenas,27.04
+50807,Arenal,38.07
+50808,Cabeceras,60.75
+50901,Carmona,86.46
+40702,La Ribera,1868.21
+50902,Santa Rita,27.46
+50903,Zapotal,11.61
+50904,San Pablo,28.69
+50905,Porvenir,18.29
+50906,Bejuco,12.05
+51001,La Cruz,61.47
+51002,Santa Cecilia,48.11
+51003,La Garita,13.5
+51004,Santa Elena,55.69
+51101,Hojancha,48.3
+51102,Monte Romo,9.43
+51103,Puerto Carrillo,25.33
+51104,Huacas,23.76
+40703,La Asunción,1659.64
+40801,San Joaquín,2855.2
+40802,Barrantes,1138.83
+51105,Matambú,93.86
+40803,Llorente,6452.18
+40901,San Pablo,3413.2
+60101,Puntarenas,546.09
+60102,Pitahaya,31.66
+60103,Chomes,63.38
+60104,Lepanto,29.99
+60105,Paquera,37.93
+60106,Manzanillo,63.61
+60107,Guacimal,11.69
+60108,Barranca,1173.19
+60111,Cóbano,37.6
+60201,Espíritu Santo,1080.09
+60202,San Juan Grande,215.36
+60203,Macacona,169.09
+60204,San Rafael,52.81
+60205,San Jerónimo,21.38
+60206,Caldera,70.64
+60301,Buenos Aires,59.44
+60302,Volcán,19.28
+60303,Potrero Grande,10.28
+60304,Boruca,23.92
+60305,Pilas,13.64
+60306,Colinas,9.52
+60307,Chánguena,9.64
+60308,Biolley,20.37
+60309,Brunka,17.73
+60401,Miramar,94.94
+60402,La Unión,23.69
+60403,San Isidro,74.47
+60501,Puerto Cortés,44.21
+60502,Palmar,34.69
+60503,Sierpe,14.42
+60504,Bahía Ballena,21.81
+40902,Rincón de Sabanilla,4247.89
+41001,Puerto Viejo,86.59
+41002,La Virgen,47.37
+41003,Las Horquetas,94.44
+41004,Llanuras del Gaspar,81.68
+41005,Cureņa,65.1
+50101,Liberia,133.99
+50102,Caņas Dulces,19.19
+50103,Mayorga,14.32
+60112,Chacarita,6094.49
+60113,Chira,40.05
+60114,Acapulco,14.88
+60115,El Roble,3103.65
+60505,Piedras Blancas,19.89
+60506,Bahía Drake,16.38
+60601,Quepos,121.09
+60602,Savegre,20.54
+60603,Naranjito,39.51
+60701,Golfito,57.03
+60703,Guaycará,40.67
+60704,Pavón,22.55
+60801,San Vito,128.18
+60802,Sabalito,91.59
+60803,Aguabuena,99.47
+60804,Limoncito,30.66
+60805,Pittier,16.34
+60806,Gutiérrez Braun,18.36
+60901,Parrita,48.13
+61001,Corredor,67.87
+61002,La Cuesta,151.51
+61003,Canoas,135.36
+61004,Laurel,67.32
+61101,Jacó,142.8
+61102,Tárcoles,109.98
+61103,Lagunillas,32.51
+61201,Monteverde,107.19
+61301,Puerto Jiménez,69.57
+70101,Limón,1005.43
+70102,Valle La Estrella,24.23
+70103,Río Blanco,79.99
+70104,Matama,37.99
+70201,Guápiles,353.9
+70202,Jiménez,172.77
+70203,Rita,69.15
+70204,Roxana,123.4
+70205,Cariari,203.34
+70206,Colorado,81.76
+70207,La Colonia,186.86
+70301,Siquirres,142.19
+70302,Pacuarito,70.32
+70303,Florida,45.58
+70304,Germania,91.5
+70305,El Cairo,71.44
+70306,Alegría,184.56
+70307,Reventazón,24.75
+70401,Bratsi,67.47
+70402,Sixaola,71.11
+70403,Cahuita,78.81
+70404,Telire,14.41
+70501,Matina,26.55
+70502,Batán,125.32
+70503,Carrandí,78.91
+70601,Guácimo,166.94
+70602,Mercedes,36.58
+70603,Pocora,128.5
+70604,Río Jiménez,38.56
+70605,Duacarí,102.21
